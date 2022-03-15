@@ -21,12 +21,13 @@ print("Goodbye World")
 
 ```c
 // C
-#incldue <stdio.h>
+#include <stdio.h>
 
-int main (void) {
-printf("Hello World");
+int main(void) {
+	printf("Hello World \n");
 
-return 0;}
+	return 0;
+}
 ```
 
 First Header | Second Header
