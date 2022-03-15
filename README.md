@@ -4,6 +4,7 @@
 
 ### Code
 
+#### 1
 
 *italics* **bold**
 
@@ -18,6 +19,7 @@ a block of code (box)
 print("Hello World")
 print("Goodbye World")
 ```
+
 ```c
 printf("Hello World");
 ```
