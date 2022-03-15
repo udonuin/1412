@@ -2,7 +2,7 @@
 
 ## Markdown
 
-### Font
+### `Font`
 
 *italics* **bold** ~strikethrough~ `highlight` ___bolditalics___
 > Make a quote
