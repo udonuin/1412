@@ -4,7 +4,11 @@
 
 ### Font
 
-*italics* **bold** ~remove~
+*italics* **bold** ~strikethrough~ `highlight`
+___underline
+> Make a quote
+>> hi
+>> abcd
 
 ### Code
 
@@ -35,9 +39,6 @@ int main(void) {
 
 First Header | Second Header
 ------------ | -------------
---|:--:|--:
---|:--|:
---:|--:|
 Topic1 | content
 Topic2 | content
 
