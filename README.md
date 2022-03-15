@@ -4,8 +4,7 @@
 
 ### Font
 
-*italics* **bold** ~strikethrough~ `highlight`
-___underline___
+*italics* **bold** ~strikethrough~ `highlight` ___bolditalics___
 > Make a quote
 >> a
 >>> b
