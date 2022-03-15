@@ -1,12 +1,12 @@
-# Header 1
+# Header
 
 ## Syntax
 
-### Code
+### Table
 
 *italics* **bold**
 
-### Table
+### Code
 
 
 ```
@@ -29,6 +29,14 @@ int main(void) {
 	return 0;
 }
 ```
+
+`
+hi
+`
+
+``
+hi
+``
 
 First Header | Second Header
 ------------ | -------------
