@@ -4,6 +4,8 @@
 
 ### Font
 
+#/### == - enter string
+
 *italics* **bold** ~strikethrough~ `highlight` ___bolditalics___
 > Make a quote
 >> a
@@ -19,9 +21,9 @@
 
 ### Link
 ---
-thick line
--
-thin line
+#thick line
+- thin line
+#thin line
 
 abcd
 -
