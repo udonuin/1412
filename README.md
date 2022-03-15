@@ -1,13 +1,14 @@
 # Header
 
-## Syntax
+## Markdown
 
-### Table
+### Font
 
-*italics* **bold**
+*italics* **bold** ~remove~
 
 ### Code
 
+written to 'readme' file
 
 ```
 a block of code (box)
@@ -30,19 +31,14 @@ int main(void) {
 }
 ```
 
-`
-hi
-`
-
-``
-hi
-``
+### Table 
 
 First Header | Second Header
 ------------ | -------------
+--|:--:|--:
+--|:--|:
+--:|--:|
 Topic1 | content
 Topic2 | content
-
-~remove content~
 
 Example [^1]
