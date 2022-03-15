@@ -4,14 +4,11 @@
 
 ### Font
 
+#six hashtag is able
 #/## == - enter string
+#--- thick line
 
----
-#thick line
--
-#thin line
-
-*italics* **bold** ~strikethrough~ `highlight` ___bolditalics___
+*italics1* _italics2_ **bold1** __bold2__ ~strikethrough~ `highlight` ___bolditalics___
 > Make a quote
 >> a
 >>> b
@@ -26,12 +23,13 @@
 
 ### Link
 
+![ProfileImage](https://avatars.githubusercontent.com/u/101023626?v=4)
+-
 Click and [SeeMyGithub](https://github.com/udonuin)
-! [Image] (https://avatars.githubusercontent.com/u/101023626?v=4)
 
 ### Code
 
-written to 'readme' file
+written to `README` file
 
 ```
 a block of code (box)
