@@ -18,9 +18,12 @@
 2. two
 
 ### Link
-
+---
+--
+-
+----
 Click and [SeeMyGithub](https://github.com/udonuin)
-! [Image] (None)
+! [Image] (https://avatars.githubusercontent.com/u/101023626?v=4)
 
 ### Code
 
@@ -53,5 +56,3 @@ First Header | Second Header
 ------------ | -------------
 Topic1 | content
 Topic2 | content
-
-Example [^1]
