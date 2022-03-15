@@ -15,7 +15,6 @@ a block of code (box)
 ```python
 print("Hello World")
 ```
-
 ```c
 printf("Hello World");
 ```
@@ -25,7 +24,7 @@ First Header | Second Header
 Topic1 | content
 Topic2 | content
 
-Example~small~
+Example~remove content~
 
 Example[^1] [^2]
 
