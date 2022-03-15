@@ -29,4 +29,4 @@ Topic2 | content
 
 ~remove content~
 
-Example[^1]
+Example [^1]
