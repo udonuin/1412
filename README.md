@@ -32,7 +32,7 @@ Click and [SeeMyGithub](https://github.com/udonuin)
 written to `README` file
 
 ```
-a block of code (box)
+a block of code
 ```
 
 ```python
