@@ -4,8 +4,6 @@
 
 ### Code
 
-#### 1
-
 *italics* **bold**
 
 ### Table
