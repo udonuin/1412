@@ -2,13 +2,26 @@
 
 ## Markdown
 
-### `Font`
+### Font
 
 *italics* **bold** ~strikethrough~ `highlight` ___bolditalics___
 > Make a quote
 >> a
 >>> b
 >>>> c
+
+### To do
+
+- first
+- second
+
+1. one
+2. two
+
+### Link
+
+link -> [SeeMyGithub]()
+Image -> [Image]()
 
 ### Code
 
