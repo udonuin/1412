@@ -21,7 +21,12 @@ print("Goodbye World")
 
 ```c
 // C
+#incldue <stdio.h>
+
+int main (void) {
 printf("Hello World");
+
+return 0;}
 ```
 
 First Header | Second Header
