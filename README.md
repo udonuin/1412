@@ -24,7 +24,7 @@ First Header | Second Header
 Topic1 | content
 Topic2 | content
 
-Example~remove content~
+~remove content~
 
-Example[^1] [^2]
+Example[^1]
 
