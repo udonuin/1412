@@ -4,9 +4,11 @@
 
 ### Code
 
+
 *italics* **bold**
 
 ### Table
+
 
 ```
 a block of code (box)
