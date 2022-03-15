@@ -14,14 +14,13 @@
 
 - first
 - second
-
 1. one
 2. two
 
 ### Link
 
 Click and [SeeMyGithub](https://github.com/udonuin)
-! [Image] None ()
+! [Image] (None)
 
 ### Code
 
