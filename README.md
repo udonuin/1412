@@ -20,8 +20,8 @@
 
 ### Link
 
-link -> [SeeMyGithub]()
-Image -> [Image]()
+Click and [SeeMyGithub](https://github.com/udonuin)
+! [Image] None ()
 
 ### Code
 
