@@ -1,14 +1,17 @@
-# Header
+# Header :octocat:
 
 ## Markdown
 
 ### Font
 
-#six hashtag is able
+#five hashtag is able
 #/## == - enter string
 #--- thick line
 
-*italics1* _italics2_ **bold1** __bold2__ ~strikethrough~ `highlight` ___bolditalics___
+*italics1* _italics2_ **bold1** __bold2__
+~strikethrough~ `highlight` ___bolditalics___
+\*literal asterisks\*
+
 > Make a quote
 >> a
 >>> b
@@ -20,11 +23,18 @@
 - second
 1. one
 2. two
+- [x] done
+- [ ] Todo
+ 1. Sub1
+ 2. Sub2
+ + itema == * A
+ + itemb == * B
+
 
 ### Link
 
 ![ProfileImage](https://avatars.githubusercontent.com/u/101023626?v=4)
--
+* * *
 Click and [SeeMyGithub](https://github.com/udonuin)
 
 ### Code
