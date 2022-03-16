@@ -19,17 +19,14 @@
 
 ### To do
 
-- first
-- second
+- first == + itema == * A
+- second == + itemb == * B
 1. one
 2. two
 - [x] done
 - [ ] Todo
  1. Sub1
  2. Sub2
- + itema == * A
- + itemb == * B
-
 
 ### Link
 
